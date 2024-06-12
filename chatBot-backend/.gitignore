@@ -1,0 +1,24 @@
+
+node_modules/
+
+
+.env
+
+
+*.log
+
+
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+
+.DS_Store
+Thumbs.db
+
+# Optional: Uncomment the following line if you're using npm for package management
+# npm-debug.log
+
+# Optional: Uncomment the following line if you're using Yarn for package management
+# yarn-error.log
